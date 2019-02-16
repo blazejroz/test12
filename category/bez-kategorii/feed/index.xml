@@ -8,29 +8,37 @@
 	>
 
 <channel>
-	<title>Bez kategorii &#8211; 4 WDH KryLinki</title>
-	<atom:link href="/https://blazejroz.github.io/Krylinki/category/bez-kategorii/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://blazejroz.github.io/Krylinki</link>
+	<title>Bez kategorii &#8211; 4 WDH „KryLinki”</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Fri, 15 Feb 2019 19:34:36 +0000</lastBuildDate>
 	<language>pl-PL</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2019/02/cropped-logo_zhp_zielone-300x300-150x150.png</url>
+	<title>Bez kategorii &#8211; 4 WDH „KryLinki”</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Witaj, świecie!</title>
-		<link>/https://blazejroz.github.io/Krylinki/2019/02/15/witaj-swiecie/</link>
-		<comments>/https://blazejroz.github.io/Krylinki/2019/02/15/witaj-swiecie/#comments</comments>
+		<link>./../../../2019/02/15/witaj-swiecie/index.html</link>
+		<comments>./../../../2019/02/15/witaj-swiecie/index.html#comments</comments>
 		<pubDate>Fri, 15 Feb 2019 18:15:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Bez kategorii]]></category>
 
-		<guid isPermaLink="false">/https://blazejroz.github.io/Krylinki/?p=1</guid>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
 		<description><![CDATA[Witamy w WordPressie. To jest twój pierwszy post. Edytuj go lub usuń, a następnie zacznij pisać!]]></description>
 				<content:encoded><![CDATA[
 <p>Witamy w WordPressie. To jest twój pierwszy post. Edytuj go lub usuń, a następnie zacznij pisać!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://blazejroz.github.io/Krylinki/2019/02/15/witaj-swiecie/feed/</wfw:commentRss>
+			<wfw:commentRss>./../../../2019/02/15/witaj-swiecie/feed/index.html</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
